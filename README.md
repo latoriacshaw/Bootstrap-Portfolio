@@ -10,9 +10,11 @@
 
 You must complete **90%** of the homework assignments. You can miss no more than **2 assignments**.
 
-Homework submissions **must be on time AS IS**. Late submissions will not be counted. It's okay to submit incomplete work. Don't cheat just to "get it done." Submit what you have.
+Homework submissions **must be on time as is**. Late submissions will not be counted. It's okay to submit incomplete work. Don't cheat just to "get it done." Submit what you have.
 
 Two links are required to get credit for each assignment. One link to your **GitHub repository** and one link to the **deployed website**. Even if the deployed site isn't working, submit the link anyway so we know you tried. You won't get credit if you don't attempt deployment.
+
+The instructional staff will not answer homework-specific questions. The homework is for you to solve. However, you are more than welcome to work with your classmates to complete these assignments. You may also change the theme of the assignment to better fit your interests as long as you are still demonstrating the key takeaways for that unit.
 
 #### Attendance
 
